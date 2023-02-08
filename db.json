@@ -1,0 +1,87 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "alt": "usual",
+      "title": "Plan 'Usual'",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 10
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "alt": "vegy",
+      "title": "Plan 'Premium'",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 20
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "alt": "vegy",
+      "title": "Plan 'Vip'",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 30
+    }
+  ],
+  "request": [
+    {
+      "name": "Akmal",
+      "phone": "+998 99 713 27 27",
+      "id": 1
+    },
+    {
+      "name": "Akmal",
+      "phone": "+7 (999) 999-9999",
+      "id": 2
+    },
+    {
+      "name": "beruniy-avlodlari",
+      "phone": "+7 (999) 999-9999",
+      "id": 3
+    },
+    {
+      "name": "asdscacas",
+      "phone": "99 713 27 27",
+      "id": 4
+    },
+    {
+      "name": "beruniy-avlodlari",
+      "phone": "+998997132727",
+      "id": 5
+    },
+    {
+      "name": "beruniy-avlodlari",
+      "phone": "+998 99 713 27 27",
+      "id": 6
+    },
+    {
+      "name": "Akmal",
+      "phone": "+998 99 713 27 27",
+      "id": 7
+    },
+    {
+      "name": "beruniy-avlodlari",
+      "phone": "+998 99 713 27 27",
+      "id": 8
+    },
+    {
+      "name": "beruniy-avlodlari",
+      "phone": "+998 99 713 27 27",
+      "id": 9
+    },
+    {
+      "name": "beruniy-avlodlari",
+      "phone": "+998 99 713 27 27",
+      "id": 10
+    },
+    {
+      "name": "beruniy-avlodlari",
+      "phone": "+998 99 713 27 27",
+      "id": 11
+    },
+    {
+      "name": "beruniy-avlodlari",
+      "phone": "+998 99 713 27 27",
+      "id": 12
+    }
+  ]
+}
